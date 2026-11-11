@@ -2,7 +2,7 @@
 
 ## Summary
 
-Bitfury intends to purchase GNK for 1.755M USDT from the previously approved 12M USDT Community Sale contract at $0.60 per GNK. Of this amount, 607,250 USDT is returned to Bitfury as reimbursement for security audit contracts with HackerOne and Trail of Bits, which Bitfury paid in fiat directly to vendors, because Gonka had no legal entity at the time which both providers needed. The remaining part of 1,142,750 USDT stays on the Community Pool. If the proposal is not approved, none of these transactions will take place
+Bitfury intends to purchase GNK for 1.75M USDT from the previously approved 12M USDT Community Sale contract at $0.60 per GNK. Of this amount, 607,250 USDT is returned to Bitfury as reimbursement for security audit contracts with HackerOne and Trail of Bits, which Bitfury paid in fiat directly to vendors, because Gonka had no legal entity at the time which both providers needed. The remaining part of 1,142,750 USDT stays on the Community Pool. If the proposal is not approved, none of these transactions will take place
 
 ## Background
 
